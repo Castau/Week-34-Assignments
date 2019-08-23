@@ -1,7 +1,4 @@
-# Week-34-Assignments
-
-
-# Assignments Week-34, Flow 1
+# Week 34 Assignments, Flow 1
 
 ### Monday:
 [Droplet](http://camillastaunstrup:8080/)
