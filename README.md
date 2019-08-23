@@ -1,7 +1,7 @@
 ## Week 34 Assignments, Flow 1
 
 ### Monday:
-Setup day - all should be in order. [Droplet](http://camillastaunstrup.dk:8080/) can be found here. Thursday and Friday projects are deployed, see below. 
+Setup day - everything should be in order. [Droplet](http://camillastaunstrup.dk:8080/) can be found here. Thursday and Friday projects are deployed, see below. 
 
 ### Tuesday:
 All done.  
