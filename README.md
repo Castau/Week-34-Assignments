@@ -7,7 +7,7 @@ Setup day - everything should be in order. [Droplet](http://camillastaunstrup.dk
 All done.  
 [Plain JPA and Facades](https://docs.google.com/document/d/1Uib8GtBXmQZJ9x5tqXXHt1UYkkRPo9zKwugWa87bzUI/edit#)  
 [JPA-intro-day2-exercises](https://docs.google.com/document/d/1JVXSMz_pw-Fnsid6Eihpam8P2eMd9phqwTQOFRzvrug/edit)  
-Plain JPA and Facades was made during codealong in class so it's not excatly the same as in the doc. The projects can be found here: [2-Tuesday](https://github.com/Castau/Week-34-Assignments/tree/master/2-Tuesday)
+Plain JPA and Facades was made during code-a-long in class so it's not excatly the same as in the doc. The projects can be found here: [2-Tuesday](https://github.com/Castau/Week-34-Assignments/tree/master/2-Tuesday)
 
 ### Wednesday:
 All done.  
