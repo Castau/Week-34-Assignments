@@ -1,7 +1,7 @@
 ## Week 34 Assignments, Flow 1
 
 ### Monday:
-  [Droplet](http://camillastaunstrup.dk:8080/)
+1. Setup day - all should be in order. [Droplet](http://camillastaunstrup.dk:8080/)
 
 ### Tuesday:
   [Plain JPA and Facades](https://docs.google.com/document/d/1Uib8GtBXmQZJ9x5tqXXHt1UYkkRPo9zKwugWa87bzUI/edit#)  
