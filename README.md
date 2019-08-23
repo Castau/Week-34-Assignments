@@ -21,7 +21,7 @@ I implemented a bad solution to the Junit-test testzCreateEmployee() in order to
 * [/api/employees/data](http://camillastaunstrup.dk:8080/jpa_rest_startup-1.0/api/employees/data) - creates employees in the database
 * [/api/employees/all](http://camillastaunstrup.dk:8080/jpa_rest_startup-1.0/api/employees/all) - shows all employees
 * [/api/employees/{id}](http://camillastaunstrup.dk:8080/jpa_rest_startup-1.0/api/employees/4) - shows specific employee based on id
-* [/api/employees/name/{name}](http://camillastaunstrup.dk:8080/jpa_rest_startup-1.0/api/employees/name/Gerda%20Karlsen) - shows specific emplyee based on name
+* [/api/employees/name/{name}](http://camillastaunstrup.dk:8080/jpa_rest_startup-1.0/api/employees/name/Gerda%20Karlsen) - shows employees with specific name
 
 The project can be found here: [4-Thursday](https://github.com/Castau/Week-34-Assignments/tree/master/4-Thursday/week1-simple-jpa-rest)
 
